@@ -1,0 +1,30 @@
+[Email]
+sender = felix.chen@deldxlabs.com
+app_pass = hiiwgtwiavejmuen
+receiver1 = felix.chen@deldxlabs.com
+receiver2 = felix19981228@gmail.com
+Subject = HL7 Parser Error Notice
+
+[Client]
+clientID = 1187
+referringDoctor = P0019
+race = U
+ethnic = U
+
+[Regex]
+namePattern = (?<=5161\n\n)([a-zA-Z]+|[a-zA-Z]+-[a-zA-Z]+),\s+[a-zA-Z]+
+altNamePattern = (?<=5161\n)([a-zA-Z]+|[a-zA-Z]+-[a-zA-Z]+),\s+[a-zA-Z]+
+dobPattern = (?<=dob:\s)[0-9]{2}\/[0-9]{2}\/[0-9]{4}
+genderPattern = (?<=\s)(M|F)(?=\s)
+numberPattern = (?<=h:\s)\([0-9]{3}\)\s+[0-9]{3}-[0-9]{4}
+addressFirstLinePattern = (?<=yo\s)(.*?)\n
+addressSecondLinePattern = \n(.*?),
+addressThirdLinePattern = (.*?)([0-9]\n|-\n)
+altAddressPattern = (?<=Primary Insurance\n\n)(.*)\n(.*)\n(?=\nh:)
+insuranceIDPattern = (?<=ID:\s)(.*?)(?=\n)
+insuranceGroupPattern = (?<=Group:\s)(.*?)(?=\n)
+insurancePolicyHolderPattern = (?<=Policy Holder:\s)(.*?)(?=\n)
+insuranceCompanyPattern = (?<=\n)(.*?)(?=\nID:)
+clientIDPattern = (?<=id\s#)[0-9]+
+requisitionPattern = (?<=Requisition\sNumber:\s)[A-Z]{4}[0-9]{3}
+testCodePattern = (?<=Panel\s)[0-9]+

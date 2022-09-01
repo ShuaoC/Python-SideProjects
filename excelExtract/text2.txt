@@ -1,0 +1,1001 @@
+Electronic Payment Clearinghouse
+Echo Health, Inc.
+PNC Bank, N.A. 001
+C260266937C A043301627A 1069954659C
+DRAFT NO.
+DRAFT DATE
+Six Thousand Ninety& 00 / 100 DOLLARS AMOUNT
+TO THE 
+ORDER OF
+DELAWARE DIAGNOSTIC LABS
+1 CENTURIAN DR STE 103
+NEWARK DE 19713
+ 260266937 
+06/17/2022
+PAYABLE 
+THROUGH 
+DRAFT **********$6,090.00
+VOID AFTER 180 DAYS
+&&$$1
+Electronic Payment Clearinghouse
+Health Partners Plans
+901 Market Street, Suite 500
+Philadelphia, PA 19107
+$$EPPEPP000000337511063
+60-162
+433
+Your name, DELAWARE DIAGNOSTIC LABS, and Tax ID have been verified by 
+the IRS.
+Questions? Please contact Provider Service at 
+(215) 991-4350 or Toll free (888)991-9023.
+Payor ID:80142
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 1 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+Pat. Acct #: 22MF201490498 Provider: Delaware Diagnostic Labs, Llc
+Patient: MONG-HUONG T LE Insured: Payer Claim # 2022060800072
+Group/Check Number 01/1944952
+150138836 MONG-HUONG T LE 
+DRG Code: DRG Qty:
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF209950162 Provider: Delaware Diagnostic Labs, Llc
+Patient: GABRIELLA D DRUID Insured: Payer Claim # 2022060800073
+Group/Check Number 01/1944952
+500550435 GABRIELLA D DRUID 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 M15 
+CO97 PI22
+5/14/22 5/14/22 G2023 1 0.00 25.00 0.00 
+5/14/22 5/14/22 U0004 1 80.00 0.00 0.00 0.00 0.00 80.00 0.00 PI22 
+5/14/22 5/14/22 U0005 1 26.00 0.00 0.00 0.00 0.00 26.00 0.00 PI22 
+Total for Claim 131.00 0.00 0.00 0.00 0.00 131.00 0.00 
+Pat. Acct #: 2200505910094 Provider: Delaware Diagnostic Labs, Llc
+Patient: ANNE ALAESSER Insured: Payer Claim # 2022060800074
+Group/Check Number 01/1944952
+630541682 ANNE ALAESSER 
+DRG Code: DRG Qty:
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200502650054 Provider: Delaware Diagnostic Labs, Llc
+Patient: NAHFEEH D WILLIAMS Insured: Payer Claim # 2022060800075
+Group/Check Number 01/1944952
+690125878 NAHFEEH D WILLIAMS 
+&&$$2
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 2 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+DRG Code: DRG Qty:
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200497480015 Provider: Delaware Diagnostic Labs, Llc
+Patient: MASUDA Q BILLINGS Insured: Payer Claim # 2022060800076
+Group/Check Number 01/1944952
+670101577 MASUDA Q BILLINGS 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/11/22 5/11/22 G2023 1 0.00 25.00 0.00 
+5/11/22 5/11/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/11/22 5/11/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200502820101 Provider: Delaware Diagnostic Labs, Llc
+Patient: KYREEM T WILLIAMS Insured: Payer Claim # 2022060800077
+Group/Check Number 01/1944952
+960147030 KYREEM T WILLIAMS 
+DRG Code: DRG Qty:
+5/14/22 5/14/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/14/22 5/14/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/14/22 5/14/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF245730211 Provider: Delaware Diagnostic Labs, Llc
+Patient: NI''AJAH R CHEERS Insured: Payer Claim # 2022060800078
+Group/Check Number 01/1944952
+030433689 NI''AJAH R CHEERS 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200509180371 Provider: Delaware Diagnostic Labs, Llc
+Patient: ZONGXIU ZHAN Insured: Payer Claim # 2022060800080
+Group/Check Number 01/1944952
+019398025 ZONGXIU ZHAN 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200505650110 Provider: Delaware Diagnostic Labs, Llc
+Patient: MARCUS R BROWN Insured: Payer Claim # 2022060800081
+Group/Check Number 01/1944952
+090220629 MARCUS R BROWN 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF226310518 Provider: Delaware Diagnostic Labs, Llc
+Patient: LIE LU Insured: Payer Claim # 2022060800082
+Group/Check Number 01/1944952
+500409911 LIE LU 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 3 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF254110229 Provider: Delaware Diagnostic Labs, Llc
+Patient: BI Y ZHENG Insured: Payer Claim # 2022060800083
+Group/Check Number 01/1944952
+590158746 BI Y ZHENG 
+DRG Code: DRG Qty:
+5/20/22 5/20/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/20/22 5/20/22 G2023 1 0.00 25.00 0.00 
+5/20/22 5/20/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF219470416 Provider: Delaware Diagnostic Labs, Llc
+Patient: QINGKANG LIN Insured: Payer Claim # 2022060800084
+Group/Check Number 01/1944952
+220468430 QINGKANG LIN 
+DRG Code: DRG Qty:
+5/16/22 5/16/22 G2023 1 25.00 0.00 0.00 0.00 0.00 25.00 0.00 CO177 
+5/16/22 5/16/22 U0004 1 80.00 0.00 0.00 0.00 0.00 80.00 0.00 CO177 
+5/16/22 5/16/22 U0005 1 26.00 0.00 0.00 0.00 0.00 26.00 0.00 CO177 
+Total for Claim 131.00 0.00 0.00 0.00 0.00 131.00 0.00 
+Pat. Acct #: 2200499030027 Provider: Delaware Diagnostic Labs, Llc
+Patient: TUBA KHAN Insured: Payer Claim # 2022060800085
+Group/Check Number 01/1944952
+650379477 TUBA KHAN 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF254040227 Provider: Delaware Diagnostic Labs, Llc
+Patient: TUNG H CHANG Insured: Payer Claim # 2022060800086
+Group/Check Number 01/1944952
+890203795 TUNG H CHANG 
+DRG Code: DRG Qty:
+5/20/22 5/20/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/20/22 5/20/22 G2023 1 0.00 25.00 0.00 
+5/20/22 5/20/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200499250361 Provider: Delaware Diagnostic Labs, Llc
+Patient: TAI CHEUNG Insured: Payer Claim # 2022060800087
+Group/Check Number 01/1944952
+720169849 TAI CHEUNG 
+DRG Code: DRG Qty:
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/11/22 5/11/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/11/22 5/11/22 86409 1 0.00 108.00 0.00 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/11/22 5/11/22 G2023 1 0.00 25.00 0.00 
+5/11/22 5/11/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/11/22 5/11/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200505360083 Provider: Delaware Diagnostic Labs, Llc
+Patient: SERENITY WHITFIELD Insured: Payer Claim # 2022060800088
+Group/Check Number 01/1944952
+061824371 SERENITY WHITFIELD 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 4 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200509200372 Provider: Delaware Diagnostic Labs, Llc
+Patient: BRINELL J HENRY Insured: Payer Claim # 2022060800089
+Group/Check Number 01/1944952
+150109895 BRINELL J HENRY 
+DRG Code: DRG Qty:
+ 3.00 0.00 0.00 0.00 CO216 N216 
+CO97 M15 
+PI96
+5/17/22 5/17/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/17/22 5/17/22 86409 1 0.00 108.00 0.00 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 22MF245820216 Provider: Delaware Diagnostic Labs, Llc
+Patient: NESTOR E ROMERO Insured: Payer Claim # 2022060800091
+Group/Check Number 01/1944952
+470353791 NESTOR E ROMERO 
+DRG Code: DRG Qty:
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200515220126 Provider: Delaware Diagnostic Labs, Llc
+Patient: AMADU BARRIE Insured: Payer Claim # 2022060800092
+Group/Check Number 01/1944952
+450283504 AMADU BARRIE 
+DRG Code: DRG Qty:
+5/20/22 5/20/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/20/22 5/20/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/20/22 5/20/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF194700413 Provider: Delaware Diagnostic Labs, Llc
+Patient: QINGKANG LIN Insured: Payer Claim # 2022060800093
+Group/Check Number 01/1944952
+220468430 QINGKANG LIN 
+DRG Code: DRG Qty:
+5/13/22 5/13/22 G2023 1 25.00 0.00 0.00 0.00 0.00 25.00 0.00 CO177 
+5/13/22 5/13/22 U0004 1 80.00 0.00 0.00 0.00 0.00 80.00 0.00 CO177 
+5/13/22 5/13/22 U0005 1 26.00 0.00 0.00 0.00 0.00 26.00 0.00 CO177 
+Total for Claim 131.00 0.00 0.00 0.00 0.00 131.00 0.00 
+Pat. Acct #: 2200505440085 Provider: Delaware Diagnostic Labs, Llc
+Patient: ABUALHASSAN B ALAESSER Insured: Payer Claim # 2022060800094
+Group/Check Number 01/1944952
+160325097 ABUALHASSAN B ALAESSER 
+DRG Code: DRG Qty:
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF245740212 Provider: Delaware Diagnostic Labs, Llc
+Patient: PAIGE A JOHNSON Insured: Payer Claim # 2022060800095
+Group/Check Number 01/1944952
+330191707 PAIGE A JOHNSON 
+DRG Code: DRG Qty:
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 5 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200509250374 Provider: Delaware Diagnostic Labs, Llc
+Patient: HUOHUI LI Insured: Payer Claim # 2022060800097
+Group/Check Number 01/1944952
+130494348 HUOHUI LI 
+DRG Code: DRG Qty:
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/16/22 5/16/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/16/22 5/16/22 86409 1 0.00 108.00 0.00 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200508500098 Provider: Delaware Diagnostic Labs, Llc
+Patient: KIMBERLY SHERMAN Insured: Payer Claim # 2022060800098
+Group/Check Number 01/1944952
+930433173 KIMBERLY SHERMAN 
+DRG Code: DRG Qty:
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200505880093 Provider: Delaware Diagnostic Labs, Llc
+Patient: ELIJAH I JONES Insured: Payer Claim # 2022060800099
+Group/Check Number 01/1944952
+540552776 ELIJAH I JONES 
+DRG Code: DRG Qty:
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200502910106 Provider: Delaware Diagnostic Labs, Llc
+Patient: BREONNA WILLIAMS Insured: Payer Claim # 2022060800100
+Group/Check Number 01/1944952
+820163497 BREONNA WILLIAMS 
+DRG Code: DRG Qty:
+5/14/22 5/14/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/14/22 5/14/22 G2023 1 0.00 25.00 0.00 
+5/14/22 5/14/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200504360069 Provider: Delaware Diagnostic Labs, Llc
+Patient: ILEANA RODRIGUEZ Insured: Payer Claim # 2022060800102
+Group/Check Number 01/1944952
+220146227 ILEANA RODRIGUEZ 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: B200000220238 Provider: Delaware Diagnostic Labs, Llc
+Patient: SASKIA M DOWELL Insured: Payer Claim # 2022060800103
+Group/Check Number 01/1944952
+970184580 SASKIA M DOWELL 
+DRG Code: DRG Qty:
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 6 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF207810431 Provider: Delaware Diagnostic Labs, Llc
+Patient: KATHRIN D LUNA Insured: Payer Claim # 2022060800104
+Group/Check Number 01/1944952
+460171243 KATHRIN D LUNA 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF245800214 Provider: Delaware Diagnostic Labs, Llc
+Patient: MARKEL M HOBBS Insured: Payer Claim # 2022060800105
+Group/Check Number 01/1944952
+720181933 MARKEL M HOBBS 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200502610367 Provider: Delaware Diagnostic Labs, Llc
+Patient: MEI YUAN ZHAO Insured: Payer Claim # 2022060800106
+Group/Check Number 01/1944952
+790599926 MEI YUAN ZHAO 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/13/22 5/13/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/13/22 5/13/22 86409 1 0.00 108.00 0.00 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200509160370 Provider: Delaware Diagnostic Labs, Llc
+Patient: YAZHEN WANG Insured: Payer Claim # 2022060800107
+Group/Check Number 01/1944952
+019398026 YAZHEN WANG 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF194980415 Provider: Delaware Diagnostic Labs, Llc
+Patient: CHUN MIAO YANG Insured: Payer Claim # 2022060800108
+Group/Check Number 01/1944952
+140344218 CHUN MIAO YANG 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200509330375 Provider: Delaware Diagnostic Labs, Llc
+Patient: JIAN ZHU YOU Insured: Payer Claim # 2022060800109
+Group/Check Number 01/1944952
+340256233 JIAN ZHU YOU 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 7 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+DRG Code: DRG Qty:
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/16/22 5/16/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/16/22 5/16/22 86409 1 0.00 108.00 0.00 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200502900105 Provider: Delaware Diagnostic Labs, Llc
+Patient: TIKEYA N PERKINS Insured: Payer Claim # 2022060800110
+Group/Check Number 01/1944952
+090182484 TIKEYA N PERKINS 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/14/22 5/14/22 G2023 1 0.00 25.00 0.00 
+5/14/22 5/14/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/14/22 5/14/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200498630022 Provider: Delaware Diagnostic Labs, Llc
+Patient: JAHARA A RUSHUM Insured: Payer Claim # 2022060800111
+Group/Check Number 01/1944952
+690161390 JAHARA A RUSHUM 
+DRG Code: DRG Qty:
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200505640109 Provider: Delaware Diagnostic Labs, Llc
+Patient: NAKIA YOUNG Insured: Payer Claim # 2022060800113
+Group/Check Number 01/1944952
+001823063 NAKIA YOUNG 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200510890108 Provider: Delaware Diagnostic Labs, Llc
+Patient: TITYANA S PASLEY Insured: Payer Claim # 2022060800114
+Group/Check Number 01/1944952
+950135916 TITYANA S PASLEY 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 M15 
+CO97 PI22
+5/18/22 5/18/22 G2023 1 0.00 25.00 0.00 
+5/18/22 5/18/22 U0004 1 80.00 0.00 0.00 0.00 0.00 80.00 0.00 PI22 
+5/18/22 5/18/22 U0005 1 26.00 0.00 0.00 0.00 0.00 26.00 0.00 PI22 
+Total for Claim 131.00 0.00 0.00 0.00 0.00 131.00 0.00 
+Pat. Acct #: 2200499560363 Provider: Delaware Diagnostic Labs, Llc
+Patient: YUEN CHEUNG WU Insured: Payer Claim # 2022060800115
+Group/Check Number 01/1944952
+770459080 YUEN CHEUNG WU 
+DRG Code: DRG Qty:
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/11/22 5/11/22 36415 1 0.00 3.00 0.00 
+5/11/22 5/11/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/11/22 5/11/22 86409 1 0.00 108.00 0.00 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 8 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/11/22 5/11/22 G2023 1 0.00 25.00 0.00 
+5/11/22 5/11/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200502520365 Provider: Delaware Diagnostic Labs, Llc
+Patient: WILL LIU Insured: Payer Claim # 2022060800116
+Group/Check Number 01/1944952
+690524451 WILL LIU 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 3.00 0.00 0.00 0.00 CO216 M15 
+CO97 N216 
+PI96
+5/13/22 5/13/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/13/22 5/13/22 86409 1 0.00 108.00 0.00 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200513210122 Provider: Delaware Diagnostic Labs, Llc
+Patient: BEGUM R ISLAM Insured: Payer Claim # 2022060810325
+Group/Check Number 01/1944952
+270425419 BEGUM R ISLAM 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200499010025 Provider: Delaware Diagnostic Labs, Llc
+Patient: HAWA GUISSE Insured: Payer Claim # 2022060810326
+Group/Check Number 01/1944952
+110206719 HAWA GUISSE 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200505840089 Provider: Delaware Diagnostic Labs, Llc
+Patient: KIAYA B CLARK Insured: Payer Claim # 2022060810327
+Group/Check Number 01/1944952
+270106265 KIAYA B CLARK 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200511060126 Provider: Delaware Diagnostic Labs, Llc
+Patient: KARIN LINDE Insured: Payer Claim # 2022060810328
+Group/Check Number 01/1944952
+350202391 KARIN LINDE 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/18/22 5/18/22 G2023 1 0.00 25.00 0.00 
+5/18/22 5/18/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/18/22 5/18/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF243470418 Provider: Delaware Diagnostic Labs, Llc
+Patient: CHUN MIAO YANG Insured: Payer Claim # 2022060810329
+Group/Check Number 01/1944952
+140344218 CHUN MIAO YANG 
+DRG Code: DRG Qty:
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 9 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/20/22 5/20/22 G2023 1 0.00 25.00 0.00 
+5/20/22 5/20/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/20/22 5/20/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200502380364 Provider: Delaware Diagnostic Labs, Llc
+Patient: AHMED SHERIF Insured: Payer Claim # 2022060810330
+Group/Check Number 01/1944952
+810537991 AHMED SHERIF 
+DRG Code: DRG Qty:
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 3.00 0.00 0.00 0.00 CO216 N216 
+CO97 M15 
+PI96
+5/13/22 5/13/22 36415 1 0.00 3.00 0.00 
+ 108.00 0.00 0.00 0.00 CO204 COB7 
+N216
+5/13/22 5/13/22 86409 1 0.00 108.00 0.00 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 242.00 105.00 105.00 0.00 0.00 137.00 0.00 
+Pat. Acct #: 2200508590100 Provider: Delaware Diagnostic Labs, Llc
+Patient: ROSE GUILLOUX Insured: Payer Claim # 2022060810331
+Group/Check Number 01/1944952
+420167861 ROSE GUILLOUX 
+DRG Code: DRG Qty:
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF207760429 Provider: Delaware Diagnostic Labs, Llc
+Patient: TRACEY A STEPHENS Insured: Payer Claim # 2022060810332
+Group/Check Number 01/1944952
+002550352 TRACEY A STEPHENS 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF254410235 Provider: Delaware Diagnostic Labs, Llc
+Patient: CHRISTIAN J ROBERTS Insured: Payer Claim # 2022060810334
+Group/Check Number 01/1944952
+800124532 CHRISTIAN J ROBERTS 
+DRG Code: DRG Qty:
+5/20/22 5/20/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/20/22 5/20/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/20/22 5/20/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF208680157 Provider: Delaware Diagnostic Labs, Llc
+Patient: YUE JIAO LIN Insured: Payer Claim # 2022060810335
+Group/Check Number 01/1944952
+700644266 YUE JIAO LIN 
+DRG Code: DRG Qty:
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22MF245840218 Provider: Delaware Diagnostic Labs, Llc
+Patient: SHAWN M RESPES Insured: Payer Claim # 2022060810336
+Group/Check Number 01/1944952
+810533727 SHAWN M RESPES 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 10 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/19/22 5/19/22 G2023 1 0.00 25.00 0.00 
+5/19/22 5/19/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/19/22 5/19/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200508620101 Provider: Delaware Diagnostic Labs, Llc
+Patient: MARDIA ZOEGAR Insured: Payer Claim # 2022060810337
+Group/Check Number 01/1944952
+240257194 MARDIA ZOEGAR 
+DRG Code: DRG Qty:
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200503210061 Provider: Delaware Diagnostic Labs, Llc
+Patient: AYODEJI H AYINDE Insured: Payer Claim # 2022060810338
+Group/Check Number 01/1944952
+030439866 AYODEJI H AYINDE 
+DRG Code: DRG Qty:
+5/15/22 5/15/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/15/22 5/15/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/15/22 5/15/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200508530099 Provider: Delaware Diagnostic Labs, Llc
+Patient: MAMIE YAMMUE Insured: Payer Claim # 2022060810339
+Group/Check Number 01/1944952
+900181132 MAMIE YAMMUE 
+DRG Code: DRG Qty:
+5/17/22 5/17/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/17/22 5/17/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/17/22 5/17/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200499020026 Provider: Delaware Diagnostic Labs, Llc
+Patient: TYLER A BURDENSKI Insured: Payer Claim # 2022060810340
+Group/Check Number 01/1944952
+061889176 TYLER A BURDENSKI 
+DRG Code: DRG Qty:
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200505450086 Provider: Delaware Diagnostic Labs, Llc
+Patient: LAURA A WOOZLEY Insured: Payer Claim # 2022060810341
+Group/Check Number 01/1944952
+290219257 LAURA A WOOZLEY 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200509220373 Provider: Delaware Diagnostic Labs, Llc
+Patient: XIANGTENG LIN Insured: Payer Claim # 2022060810342
+Group/Check Number 01/1944952
+120554387 XIANGTENG LIN 
+DRG Code: DRG Qty:
+5/16/22 5/16/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/16/22 5/16/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Tax ID: 814634900 EPC Draft #: 260266937 Payment Week: 24 Payment Date: 06/17/2022 Page 11 of 12
+Service Dates Payment
+From To
+Amount Billed Other 
+Ins.Paid
+Not 
+Covered
+Procedures Allowed
+(Modifier)
+Adjustment 
+Reason
+Patient
+Responsibili
+No. of
+Units
+Sequest
+-ration
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/16/22 5/16/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200497670089 Provider: Delaware Diagnostic Labs, Llc
+Patient: ELIJAH HEARD Insured: Payer Claim # 2022060810343
+Group/Check Number 01/1944952
+660174225 ELIJAH HEARD 
+DRG Code: DRG Qty:
+5/11/22 5/11/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/11/22 5/11/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/11/22 5/11/22 G2023 1 0.00 25.00 0.00 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200499260362 Provider: Delaware Diagnostic Labs, Llc
+Patient: KAI KUN LAM Insured: Payer Claim # 2022060810345
+Group/Check Number 01/1944952
+480465422 KAI KUN LAM 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/11/22 5/11/22 G2023 1 0.00 25.00 0.00 
+5/11/22 5/11/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/11/22 5/11/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200499490094 Provider: Delaware Diagnostic Labs, Llc
+Patient: CATHERINE C MACKLIN Insured: Payer Claim # 2022060810346
+Group/Check Number 01/1944952
+040221447 CATHERINE C MACKLIN 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/12/22 5/12/22 G2023 1 0.00 25.00 0.00 
+5/12/22 5/12/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/12/22 5/12/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 2200501630038 Provider: Delaware Diagnostic Labs, Llc
+Patient: ANDRA C NWANKWOI Insured: Payer Claim # 2022060810347
+Group/Check Number 01/1944952
+100153206 ANDRA C NWANKWOI 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+5/13/22 5/13/22 G2023 1 0.00 25.00 0.00 
+5/13/22 5/13/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+5/13/22 5/13/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Pat. Acct #: 22ME711290044 Provider: Delaware Diagnostic Labs, Llc
+Patient: KATHLEEN BAMBINO Insured: Payer Claim # 2022061322092
+Group/Check Number 01/1944952
+002807469 KATHLEEN BAMBINO 
+DRG Code: DRG Qty:
+ 25.00 0.00 0.00 0.00 CO216 CO97 
+M15
+2/23/22 2/23/22 G2023 1 0.00 25.00 0.00 
+2/23/22 2/23/22 U0004 1 80.00 80.00 80.00 0.00 0.00 0.00 0.00 CO279 
+2/23/22 2/23/22 U0005 1 26.00 25.00 25.00 0.00 0.00 1.00 0.00 CO279 CO45 
+Total for Claim 131.00 105.00 105.00 0.00 0.00 26.00 0.00 
+Statement Summary Amount 
+Billed
+Payment Patient Not Covered
+Responsibilit
+Other Ins. 
+Paid
+ 9,010.00 6,090.00 0.00 0.00 2,920.00 
+Explanations
+Administered by Code Description
+HealthPartnersPlans CO177 Patient has not met the required eligibility requirements.
+CO204 This service/equipment/drug is not covered under the patients current benefit plan
+CO216 M15 Based on the findings of a review organizationSeparately billed services/tests have been bundled as they 
+are considered components of the same procedure. Separate payment is not allowed.
+CO216 N216 Based on the findings of a review organizationWe do not offer coverage for this type of service or the 
+patient is not enrolled in this portion of our benefit package.
+CO216 Based on the findings of a review organization
+CO279 Services not provided by Preferred network providers. Usage: Use this code when there are member 
+network limitations. For example, using contracted providers not in the member's 'narrow' network.
+CO45 Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement. Usage: This 
+adjustment amount cannot equal the total service or claim charge amount; and must not duplicate 
+provider adjustment amounts (payments and contractual reductions) that have resulted from prior 
+payer(s) adjudication. (Use only with Group Codes PR or CO depending upon liability)
+CO97 M15 The benefit for this service is included in the payment/allowance for another service/procedure that 
+has already been adjudicated. Usage: Refer to the 835 Healthcare Policy Identification Segment (loop 
+2110 Service Payment Information REF), if present.Separately billed services/tests have been bundled 
+as they are considered components of the same procedure. Separate payment is not allowed.
+CO97 N216 The benefit for this service is included in the payment/allowance for another service/procedure that 
+has already been adjudicated. Usage: Refer to the 835 Healthcare Policy Identification Segment (loop 
+2110 Service Payment Information REF), if present.We do not offer coverage for this type of service 
+or the patient is not enrolled in this portion of our benefit package.
+CO97 The benefit for this service is included in the payment/allowance for another service/procedure that 
+has already been adjudicated. Usage: Refer to the 835 Healthcare Policy Identification Segment (loop 
+2110 Service Payment Information REF), if present.
+COB7 This provider was not certified/eligible to be paid for this procedure/service on this date of service. 
+Usage: Refer to the 835 Healthcare Policy Identification Segment (loop 2110 Service Payment 
+Information REF), if present.
+M15 Separately billed services/tests have been bundled as they are considered components of the same 
+procedure. Separate payment is not allowed.
+N216 We do not offer coverage for this type of service or the patient is not enrolled in this portion of our 
+benefit package.
+PI22 This care may be covered by another payer per coordination of benefits.
+PI96 Non-covered charge(s). At least one Remark Code must be provided (may be comprised of either the 
+NCPDP Reject Reason Code, or Remittance Advice Remark Code that is not an ALERT.) Usage: Refer 
+to the 835 Healthcare Policy Identification Segment (loop 2110 Service Payment Information REF), 
+if present.
+Eliminate paper checks and EOP's while saving time and money. Sign up for our FREE electronic funds 
+transfer and electronic remittance solution at 
+https://enrollments.echohealthinc.com/efteradirect/HealthPartnersPlans

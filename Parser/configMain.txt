@@ -1,0 +1,5 @@
+[Notification]
+sender = felix.chen@deldxlabs.com
+app_pass = hiiwgtwiavejmuen
+receiver1 = felix.chen@deldxlabs.com
+receiver2 = felix19981228@gmail.com
